@@ -1,0 +1,28 @@
+
+body{
+    background-color: #5086c1;
+
+}    
+p{
+    font-size: 15px;
+    background-color:blue ;
+  
+}
+
+.tituloPrincipal{
+    background-color: blueviolet;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.subtitulos{
+
+    background-color: #9bfae0;
+    font-size: 30px;
+}
+.subtitulostest{
+
+background-color:blue;
+font-size: 30px;
+}

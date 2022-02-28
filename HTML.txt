@@ -1,0 +1,10 @@
+Etiqueta - <etiqueta> 
+    Ejemplo: <mata>
+             <br>   
+
+Elemento: <etiqueta> contenido </etiqueta>
+    Ejemplo: <p></p>
+             <h></h>
+             <center></center>
+
+Atributos: usamos para cambiar el valor de en elemento en HTML   
