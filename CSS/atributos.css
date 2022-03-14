@@ -1,0 +1,47 @@
+  /*Clases*/
+
+  /*Estilos Compilados*/
+  p.temaPrincipalCompilados{
+
+    color: blue;
+    }
+
+  p.compilados{
+    color: rgb(131, 60, 33);   
+   }
+
+   span.compilados{
+       color: rgb(7, 48, 228);
+       font-style: oblique;
+       background-color: rgb(217, 255, 0);
+   }
+   h2.compilados{
+
+    color: coral;
+}
+   /*Estilos interpretados*/
+
+ 
+
+   h2.interpretado{
+       color: aqua;
+
+   }
+   p.interpretado{
+       background-color: rgb(151, 28, 69);
+       border: lawngreen 2px solid;
+       font-size: 20px;
+
+   }
+   h3.interpretado{
+    color: aqua;
+
+   }
+   p.interpretados{
+    background-color: rgb(57, 184, 19);
+    font-size: 25px;
+    color: rgb(154, 25, 187);
+    font-family: 'Times New Roman', Times, serif;
+
+
+   }
