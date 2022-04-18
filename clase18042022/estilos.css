@@ -1,0 +1,44 @@
+
+
+.parrafo{
+    background-color: aquamarine;
+    border: black 2px solid;
+    margin-top: 35px;
+    padding: 55px;
+}
+
+.div1{
+
+    background-color: aquamarine;
+    border: red 4px ridge;
+
+}
+
+
+.div2{
+ background-color: rgb(45, 79, 124);
+ 
+margin: 55px;
+border: pink 5px dotted;
+
+padding: 15px ;
+
+}
+
+.div3{
+
+    background-color: cadetblue;
+    border:rgb(18, 45, 132) 5px solid ;
+
+    margin-bottom: 45px;
+    margin-left: 2px;
+    margin-right: 350px;
+    margin-top: 15px;
+
+
+}
+.div4{
+
+    background-color: bisque;
+    border: black 3px solid;
+}
